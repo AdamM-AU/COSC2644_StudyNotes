@@ -1,0 +1,6 @@
+Assignment Question 8)
+https://www.youtube.com/watch?v=1HyiblNIAmw&ab_channel=ShaneOberloier
+
+
+Hamming Code Calc
+http://www.ecs.umass.edu/ece/koren/FaultTolerantSystems/simulator/Hamming/HammingCodes.html
